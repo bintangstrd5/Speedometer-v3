@@ -19,7 +19,7 @@
 }
 
 body {
-    background: transparent !important;
+    background: #000000 !important;
     color: #ffffff;
     font-family: 'Formula1', sans-serif;
     min-height: 100vh;
