@@ -746,9 +746,3 @@ body {
     text-transform: uppercase;
     color: rgba(255, 255, 255, 0.65);
 }
-
-/* Background hitam pada bagian speedometer */
-speedo-canvas {
-    background-color: #000000 !important;
-    background: #000000 !important;
-}
