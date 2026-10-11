@@ -149,7 +149,7 @@ function d2c(dialDeg) {
 function drawDialBg(ctx, cx, cy, r) {
     ctx.beginPath();
     ctx.arc(cx, cy, r, 0, TWO_PI);
-    ctx.fillStyle = 'rgba(10, 10, 10, 0.65)';
+    ctx.fillStyle = '#000000';
     ctx.fill();
 }
 
